@@ -1,3 +1,5 @@
+---
+
 Heart Disease Detection Model Using Python
 
 This project focuses on building an interactive machine learning model to predict the likelihood of heart disease based on various health metrics. Leveraging Python and powerful machine learning libraries, the system classifies whether an individual is at risk of heart disease based on inputs like age, cholesterol levels, and blood pressure. Additionally, the project includes interactive visualizations and a user-friendly interface for better usability.
@@ -139,3 +141,6 @@ Add more sophisticated models like Gradient Boosting or Neural Networks.
 
 
 Explore, Predict, and Prevent—Join us in making healthcare smarter!
+
+
+---
