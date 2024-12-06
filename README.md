@@ -63,17 +63,7 @@ Jupyter Notebooks (for development and documentation)
 
 ---
 
-Installation
 
-1. Clone this repository:
-
-git clone https://github.com/yourusername/heart-disease-detection.git
-cd heart-disease-detection
-
-
-2. Install dependencies:
-
-pip install -r requirements.txt
 
 
 3. Launch the app or notebook:
