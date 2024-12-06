@@ -140,6 +140,9 @@ Build a mobile-friendly interface for accessibility.
 Add more sophisticated models like Gradient Boosting or Neural Networks.
 
 
+
+---
+
 Explore, Predict, and Prevent—Join us in making healthcare smarter!
 
 
